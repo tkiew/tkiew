@@ -12,4 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aQa-Mohammad&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/username=aQa-Mohammad&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aQa-Mohammad&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=aQa-Mohammad&theme=default&color=brightgreen&style=flat-square&label=Profile+Views)

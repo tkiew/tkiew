@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/aQa-Mohammad/tkiew/blob/main/IMG_20220101_231134_364.jpg)
+![Design and Development](https://github.com/tkiew/tkiew/blob/main/IMG_20220101_231134_364.jpg)
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Welcome 😉 </h1>
 
 # 💻Tech Stack

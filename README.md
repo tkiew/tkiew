@@ -1,7 +1,7 @@
 ![Design and Development](https://github.com/tkiew/tkiew/blob/main/IMG_20220101_231134_364.jpg)
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Welcome 😉 </h1>
 
-## Things I work with⚡️
+## ⚡️Things I work with⚡
 ![Python](https://img.shields.io/badge/-Python-DC382D?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)

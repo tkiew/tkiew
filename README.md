@@ -6,6 +6,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-DC382D?style=flat-square&logo=python&logoColor=white)
 ## 🌐Socials
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram)](https://t.me/SQLit)
 # 📊GitHub Stats :

@@ -1,5 +1,4 @@
-![Design and Development](https://github.com/tkiew/tkiew/blob/main/IMG_20220101_231134_364.jpg)
-<h1 align="left">Hi 👋 Welcome 🦅 </h1>
+<h1 align="left">Hi 👋 Welcome ⚡️</h1>
 
 ## ⚡️Things I work with⚡
 ![Python](https://img.shields.io/badge/-Python-DC382D?style=flat-square&logo=python&logoColor=white)
